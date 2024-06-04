@@ -1,0 +1,36 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #564d4d;
+}
+
+.fb{
+background-color: rgb(180, 146, 231);
+box-shadow: 3px 3px 3px 3px;
+}
+
+.lg{
+font-size:50px;
+}
+
+
+
+
+
+
+.box{
+    width: 300px;
+padding: 50px;
+position: absolute;
+top: 25%;
+left: 36%;
+
+
+
+text-align: center;
+border-radius: 2em;
+box-shadow: 5px 5px 50px 50px rgb(116, 111, 96)
+
+}

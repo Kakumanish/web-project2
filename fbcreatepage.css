@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(217, 217, 231);
+}
+
+.header{
+    text-align: center;
+}
+.box
+{
+
+    width: 300px;
+    padding: 0px;
+    position: absolute;
+    top: 15%;
+    left: 40%;
+    height: 63%;
+    text-align: center;
+    
+box-shadow: 3px 3px 3px 5px ;
+}
+.ID{
+    text-align:left ;
+}
